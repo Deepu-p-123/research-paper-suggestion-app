@@ -42,5 +42,5 @@ MIT License (see LICENSE)
 - Integration with other APIs
 
 **Contact**
-Author: [Your Name]  
-GitHub: [yourusername](https://github.com/yourusername)
+Author: Deepu P  
+GitHub: Deepu-p-123
