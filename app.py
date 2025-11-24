@@ -26,3 +26,6 @@ if st.button("Search") and topic:
         st.write(f"**Summary:** {p['summary'][:300]}...")
 
 st.caption("Powered by arXiv.org")
+
+if __name__ == "__main__":
+    main()    
