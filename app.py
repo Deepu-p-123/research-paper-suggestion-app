@@ -10,6 +10,10 @@ Original file is located at
 import streamlit as st
 from research_paper_suggestion_ai_agent import arxiv_search
 
+
+st.title("Hello from Streamlit!")
+st.write("If you see this, your app is working!")
+
 st.title("Research Paper Suggestion AI Agent")
 topic = st.text_input("Enter your research topic:")
 
