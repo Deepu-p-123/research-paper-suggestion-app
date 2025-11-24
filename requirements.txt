@@ -1,6 +1,5 @@
 streamlit
 requests
 transformers
-numpy
-pandas
 torch
+
