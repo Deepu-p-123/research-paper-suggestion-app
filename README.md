@@ -3,7 +3,7 @@ _Automating literature discovery and summarization for MSc students_
 
 This Streamlit web app helps students and researchers find and review academic papers with ease. Enter any topic or question, and the agent fetches top papers from arXiv, ranks them, and creates concise summaries using state-of-the-art NLP.
 
-![Flowchart of agent workflow](agent_workflow.png)
+![Flowchart of agent workflow](flowchart.png)
 
 **Features**
 - Intuitive web interface
